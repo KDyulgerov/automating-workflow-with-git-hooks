@@ -1,0 +1,18 @@
+{
+  "name": "automating-workflow-with-git-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "qunit",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "qunit": "^2.24.1"
+  }
+}
